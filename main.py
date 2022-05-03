@@ -8,7 +8,7 @@ def home():
 
 @app.route("/articles/hosting-discord-bot-on-heroku")
 def heroku():
-	return render_template("heroku.html")
+	return render_template("/heroku/heroku.html")
 	
 if __name__ == "__main__":
 	app.run(debug=True)
