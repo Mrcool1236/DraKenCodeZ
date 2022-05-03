@@ -6,7 +6,7 @@ app = Flask(__name__,template_folder="./templates")
 def home():
 	return render_template("index.html")
 
-@app.route("/articles/hosting-discord-bot-on-heroku")
+@app.route("/articles/hosting-discord-bot-on-heroku/")
 def heroku():
 	return render_template("/heroku/heroku.html")
 	
