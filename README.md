@@ -1,5 +1,5 @@
 <h1 style="font-size:2.5em; padding-right:50px;padding-left:50px;font-family:Inconsolata">Hey! I&#x27;m DraKen</h1></div>
-     <p> I&#x27;m a 13 year old programmer who is interested in web developing and console based app developing.<br>I&#x27;ve developed discord bots too and some other projects.</p>
+     <p> I&#x27;m a 14 year old programmer who is interested in web developing and console based app developing.<br>I&#x27;ve developed discord bots too and some other projects.</p>
      <p>In my free time i create some programs to automate some boring stuff and i sometimes upload them on my <a href="https://github.com/DraKenCodeZ" style="color:var(--active)">Github</a>.<br>I'm currently working on a console based application for managing files. Might upload it on my <a href="https://github.com/DraKenCodeZ" style="color:var(--active)">Github</a>/<a href="https://draken3301.sellix.io" style="color:var(--active)">Sellix</a> once it is finished.</p>
 
 ## Github Stats
